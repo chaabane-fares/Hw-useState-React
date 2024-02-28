@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    gap: 2rem;
+    margin-left: 16rem;
+    margin-top: 10rem;
+}
+.App .right{
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    width: 40rem;
+}
